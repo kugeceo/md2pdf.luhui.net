@@ -7,7 +7,11 @@ http://md2pdf.luhui.net
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/494adb60-bb36-4818-b184-2b0969a180c2/deploy-status)](https://app.netlify.com/sites/md-pdf/deploys)
 
-#Deploy status badge
+# Deploy status badge 部署状态标识
+
+This image automatically updates to reflect the current state of your latest production deploy.此映像会自动更新以反映最新生产部署的当前状态。
+
+
 ![Deploy gh-pages](https://github.com/kugeceo/md2pdf.luhui.net/actions/workflows/deploy.yaml/badge.svg)
 
 http://md-pdf.netlify.app
@@ -53,9 +57,7 @@ https://realdennis.github.io/md2pdf/
 ## What's special? 有什么特别之处？
 - You can use <span style="color:#0984e3">html</span> tag! 你可以使用<span style="color:#0984e3">html</span>标签!
 
-
 <blockquote>Hey I'm in blockquote!</blockquote> <blockquote>嘿，我在blockquote！</blockquote>。
-
 
 
 ---
